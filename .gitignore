@@ -1,0 +1,12 @@
+.gradle/
+build/
+out/
+dist/
+generated/
+
+*.ipr
+*.iml
+*.iws
+*.diff
+
+.DS_Store
